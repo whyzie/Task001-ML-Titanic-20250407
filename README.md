@@ -1,4 +1,4 @@
-# Task001-P01-ML-Titanic-20250407
+![image](https://github.com/user-attachments/assets/f0363a23-97cb-4c42-a18d-8456484a0e38)# Task001-P01-ML-Titanic-20250407
 🎯Objectives <br>
 Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 <h2><a id="Def">Data Info</a></h2>
@@ -39,11 +39,14 @@ Build a predictive model that answers the question: “what sorts of people were
 <img src="https://github.com/user-attachments/assets/25eb1d76-8d30-4d9c-a9dd-e6fd4a536c12" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/3bfa40d4-4d46-491c-adc3-4d8861cf92c8" alt="image" width="50%">
 
 ## Construct
-<img src="https://github.com/user-attachments/assets/b2963349-47f0-4bd6-a071-e982f8e9893e" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/64b72a33-9693-4589-b553-2e2cc69ac176" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/837b1510-3a36-4889-b870-6188274a6f22" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/64b72a33-9693-4589-b553-2e2cc69ac176" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/57b36404-284f-4ba9-b536-0bca9d0b8d3a" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/7fb35786-a5c6-4835-9e29-9da496e7e378" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/739d432e-7741-4c6b-a4e5-b9137ed5d11f" alt="image" width="50%"><img src="" alt="image" width="50%">
 
-![image](https://github.com/user-attachments/assets/837b1510-3a36-4889-b870-6188274a6f22)
-![image](https://github.com/user-attachments/assets/57b36404-284f-4ba9-b536-0bca9d0b8d3a)
-![image](https://github.com/user-attachments/assets/7fb35786-a5c6-4835-9e29-9da496e7e378)
+## Execution
+<img src="https://github.com/user-attachments/assets/52854d32-0d71-439c-9ae3-641f43701c20" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/4e0b4494-a549-4523-9a39-a35cc54f88af" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/b0eb0d21-fab4-4e94-a070-96f940878938" alt="image" width="50%"><img src="" alt="image" width="50%">
 
+<img src="" alt="image" width="50%"><img src="" alt="image" width="50%">
 
-<img src="" alt="image" width="50%">
+## Next steps
