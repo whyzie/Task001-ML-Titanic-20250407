@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0363a23-97cb-4c42-a18d-8456484a0e38)# Task001-P01-ML-Titanic-20250407
+# Task001-P01-ML-Titanic-20250407
 🎯Objectives <br>
 Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 <h2><a id="Def">Data Info</a></h2>
@@ -45,7 +45,7 @@ Build a predictive model that answers the question: “what sorts of people were
 
 ## Execution
 <img src="https://github.com/user-attachments/assets/52854d32-0d71-439c-9ae3-641f43701c20" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/4e0b4494-a549-4523-9a39-a35cc54f88af" alt="image" width="50%">
-<img src="https://github.com/user-attachments/assets/b0eb0d21-fab4-4e94-a070-96f940878938" alt="image" width="50%"><img src="" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/b0eb0d21-fab4-4e94-a070-96f940878938" alt="image" width="50%">
 
 <img src="" alt="image" width="50%"><img src="" alt="image" width="50%">
 
