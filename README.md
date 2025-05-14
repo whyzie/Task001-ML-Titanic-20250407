@@ -11,8 +11,8 @@ Build a predictive model that answers the question: “what sorts of people were
 <img src="https://github.com/user-attachments/assets/362487ec-7030-4f86-9872-3905c989102a" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/d9d4a617-bdf1-460d-b206-60969704c1ed" alt="image" width="50%">
 
 ## Project Planning
-<img src="https://github.com/user-attachments/assets/5dd30ab4-15a9-4565-b724-0e5397122889" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/97e6b950-7dba-40cc-87c4-86c45ceeb7d5" alt="image" width="50%">
-<img src="https://github.com/user-attachments/assets/e3f12288-46f9-4959-aea7-d22e7109a679" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/28cc518f-04cd-44d3-8812-1259011f5b7b" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/42c05c64-7620-4667-a9ef-d48921c89d62" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/d3ec8cc6-be7a-476a-827b-00f2ad3a9843" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/9d59836c-a126-475a-bacb-dde0ab61ef5d" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/28cc518f-04cd-44d3-8812-1259011f5b7b" alt="image" width="50%">
 <img src="https://github.com/user-attachments/assets/d805644e-7c29-443a-a5b1-6d911373e4db" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/bb10fa75-c239-4361-b321-69a783cc70f1" alt="image" width="50%">
 
 <h2><a id="Clea">Data Cleaning</a></h2>
@@ -41,12 +41,11 @@ Build a predictive model that answers the question: “what sorts of people were
 ## Construct
 <img src="https://github.com/user-attachments/assets/837b1510-3a36-4889-b870-6188274a6f22" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/64b72a33-9693-4589-b553-2e2cc69ac176" alt="image" width="50%">
 <img src="https://github.com/user-attachments/assets/57b36404-284f-4ba9-b536-0bca9d0b8d3a" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/7fb35786-a5c6-4835-9e29-9da496e7e378" alt="image" width="50%">
-<img src="https://github.com/user-attachments/assets/739d432e-7741-4c6b-a4e5-b9137ed5d11f" alt="image" width="50%"><img src="" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/739d432e-7741-4c6b-a4e5-b9137ed5d11f" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/b34de4e9-c59f-4017-95c4-4b97dc1158b4" alt="image" width="50%">
 
 ## Execution
-<img src="https://github.com/user-attachments/assets/52854d32-0d71-439c-9ae3-641f43701c20" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/4e0b4494-a549-4523-9a39-a35cc54f88af" alt="image" width="50%">
-<img src="https://github.com/user-attachments/assets/b0eb0d21-fab4-4e94-a070-96f940878938" alt="image" width="50%">
-
-<img src="" alt="image" width="50%"><img src="" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/3462d281-2ac7-4108-821c-0059d60c2049" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/943c8e91-e6ed-4835-9660-c78e5bf23d04" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/69292b80-e69f-4d21-b6b9-704a2dd69a3b" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/85fec59d-8531-44e1-9fd9-59fded7f9b7a" alt="image" width="50%">
 
 ## Next steps
+<img src="https://github.com/user-attachments/assets/0475408d-a6e6-48dc-8109-5c9c1ab20212" alt="image" width="50%">
