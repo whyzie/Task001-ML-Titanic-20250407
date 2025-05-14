@@ -11,7 +11,8 @@ Build a predictive model that answers the question: “what sorts of people were
 <img src="https://github.com/user-attachments/assets/362487ec-7030-4f86-9872-3905c989102a" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/d9d4a617-bdf1-460d-b206-60969704c1ed" alt="image" width="50%">
 
 ## Project Planning
-<img src="https://github.com/user-attachments/assets/42c05c64-7620-4667-a9ef-d48921c89d62" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/d3ec8cc6-be7a-476a-827b-00f2ad3a9843" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/42c05c64-7620-4667-a9ef-d48921c89d62" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/92abeedf-c360-4a11-8f2e-a4c942daa063" alt="image" width="50%">
+
 <img src="https://github.com/user-attachments/assets/9d59836c-a126-475a-bacb-dde0ab61ef5d" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/28cc518f-04cd-44d3-8812-1259011f5b7b" alt="image" width="50%">
 <img src="https://github.com/user-attachments/assets/d805644e-7c29-443a-a5b1-6d911373e4db" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/bb10fa75-c239-4361-b321-69a783cc70f1" alt="image" width="50%">
 
@@ -48,4 +49,4 @@ Build a predictive model that answers the question: “what sorts of people were
 <img src="https://github.com/user-attachments/assets/69292b80-e69f-4d21-b6b9-704a2dd69a3b" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/85fec59d-8531-44e1-9fd9-59fded7f9b7a" alt="image" width="50%">
 
 ## Next steps
-<img src="https://github.com/user-attachments/assets/0475408d-a6e6-48dc-8109-5c9c1ab20212" alt="image" width="50%">
+<img src="https://github.com/user-attachments/assets/1e0e7990-9b7e-4bf9-8037-100cec0c6f7f" alt="image" width="50%">
