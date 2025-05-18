@@ -5,7 +5,9 @@ Build a predictive model that answers the question: “what sorts of people were
 <h4 style="text-align:justify; font-family: Calibri"><br> Train.csv will contain the details of a subset of the passengers on board (891 to be exact) and importantly, will reveal whether they survived or not, also known as the “ground truth”. <br> 
     <br>  The test.csv dataset contains similar information but does not disclose the “ground truth” for each passenger.<br> 
    <br>   Using the patterns find in the train.csv data, predict whether the other 418 passengers on board (found in test.csv) survived.  <br> 
-  <br>    Check out the “Data” tab to explore the datasets even further. Once you feel you’ve created a competitive model, submit it to Kaggle to see where the model stands on our leaderboard against other Kagglers.</h4>
+  <br>    Check out the “Data” tab to explore the datasets even further. Once a competitive model has been created, we submit it to Kaggle to see where the model stands on our leaderboard against other Kagglers.</h4>
+
+In <a href="https://www.kaggle.com/code/wahyuardhitama/task001-p01-ml-titanic-20250407">Part 1 (P01)</a>, we conducted the P and A phase. <a href="https://www.kaggle.com/code/wahyuardhitama/task001-p02-ml-titanic-20250416">Part 2 (P02)</a>, we explored 12 machine learning models, including initial tuning for Random Forest. Subsequently,  <a href="https://www.kaggle.com/code/wahyuardhitama/task001-p03-ml-titanic-20250506">part 3 (P03)</a> focused on further exploration and tuning of Random Forest and Support Vector Classifier (SVC) models and also we add some back to part 2.Finally,  <a href="https://www.kaggle.com/code/wahyuardhitama/task001-p04-ml-titanic-20250507">part 4 (P04) investigated boosting techniques and a Voting Classifier incorporating Boosting and Random Forest.</a> All documents available in Github.
 
 ## Project Architecture
 <img src="https://github.com/user-attachments/assets/362487ec-7030-4f86-9872-3905c989102a" alt="image" width="50%"><img src="https://github.com/user-attachments/assets/d9d4a617-bdf1-460d-b206-60969704c1ed" alt="image" width="50%">
